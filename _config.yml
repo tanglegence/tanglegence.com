@@ -9,7 +9,7 @@
 title: Tanglegence
 email: roberto@tanglegence.com
 description: Mastering Complexity
-baseurl: "/new-site" # the subpath of your site, e.g. /blog
+baseurl: "/tanglegence.com" # the subpath of your site, e.g. /blog
 url: "https://tanglegence.github.io" # the base hostname & protocol for your site
 
 # Logo settings
