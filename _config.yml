@@ -17,10 +17,10 @@ logo-image-url:
 font-awesome-icon-logo:
 
 # Social settings
-github_username: tanglegence
-twitter_username: tanglegence
-facebook_URL:
-instagram_username:
+social:
+    github: tanglegence
+    twitter: tanglegence
+    linkedin: tanglegence
 
 # Build settings
 markdown: kramdown
