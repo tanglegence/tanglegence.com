@@ -33,7 +33,7 @@ title: Home
 		</section>
 		<section>
 			<span class="icon major fa-lock accent5"></span>
-			<h3>Stragical planning</h3>
+			<h3>Strategical planning</h3>
 			<p>Ensuring your innovation plan is financially feasible</p>
 		</section>
 	</div>
