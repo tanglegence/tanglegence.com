@@ -4,13 +4,14 @@
 	<h2>Sign up to the mailing list to keep in touch</h2>
     <!--<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc.</p>-->
 
-	<form>
+	<form accept-charset="utf-8" action="https://formspree.io/info@tanglegence.com" method="post">
+        <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
 		<div class="row uniform 50%">
 			<div class="8u 12u(mobilep)">
-				<input type="email" name="email" id="email" placeholder="Email Address" />
+				<input type="email" name="_replyto" id="email-address" placeholder="Email Address" required="">
 			</div>
 			<div class="4u 12u(mobilep)">
-				<input type="submit" value="Sign Up" class="fit" />
+				<input type="submit" value="Sign Up" class="fit">
 			</div>
 		</div>
 	</form>
