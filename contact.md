@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Contact Us
 ---
 
 <section id="main" class="container 75%">
