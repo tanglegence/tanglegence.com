@@ -5,16 +5,16 @@ layout: page
 <section id="main" class="container 75%">
     <header>
         <h2>Contact Us</h2>
-        <p>Tell us what you think about our little operation.</p>
+        <p>Tell us what you think about our services.</p>
     </header>
     <div class="box">
-        <form method="post" action="#">
+        <form action="https://formspree.io/{{ site.email }}" method="POST">
             <div class="row uniform 50%">
                 <div class="6u 12u(mobilep)">
                     <input type="text" name="name" id="name" value="" placeholder="Name" />
                 </div>
                 <div class="6u 12u(mobilep)">
-                    <input type="email" name="email" id="email" value="" placeholder="Email" />
+                    <input type="email" name="_replyto" id="email" value="" placeholder="Email" />
                 </div>
             </div>
             <div class="row uniform 50%">
