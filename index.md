@@ -6,8 +6,7 @@ title: Home
 <section class="box special" id="learn-more">
 	<header class="major">
 		<h2>What we do</h2>
-		<!--<p>Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc ornare<br />
-		adipiscing nunc adipiscing. Condimentum turpis massa.</p>-->
+		<p>We advise governmental organisations and businesses throughout Europe and beyond through the complex journey of digital transformation without significant investment, disruption or complexity.</p>
 	</header>
 	<!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
 </section>
