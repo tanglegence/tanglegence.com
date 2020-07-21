@@ -4,7 +4,7 @@ layout: page
 
 <section id="main" class="container 75%">
     <header>
-        <h2>Contact Us</h2>
+        <h2>Contact</h2>
         <p>Tell us what you think about our services.</p>
     </header>
     <div class="box">
