@@ -14,26 +14,26 @@ title: Home
 <section class="box special features">
 	<div class="features-row">
 		<section>
-			<span class="icon major fa-bolt accent2"></span>
-			<h3>Cybersecurity</h3>
-			<p>Protecting digital assets</p>
+			<span class="icon major fa-lock accent5"></span>
+			<h3>Strategical planning and EU funding</h3>
+			<p>Ensuring your innovation plan is financially feasible</p>
 		</section>
+		<section>
+			<span class="icon major fa-cloud accent4"></span>
+			<h3>Green, sustainable, open innovation</h3>
+			<p>Measuring the impact of innovation</p>
+		</section>
+	</div>
+	<div class="features-row">
 		<section>
 			<span class="icon major fa-area-chart accent3"></span>
 			<h3>Deep tech</h3>
 			<p>Enabling technological convergence</p>
 		</section>
-	</div>
-	<div class="features-row">
 		<section>
-			<span class="icon major fa-cloud accent4"></span>
-			<h3>Sustainable, open innovation</h3>
-			<p>Measuring the impact of innovation</p>
-		</section>
-		<section>
-			<span class="icon major fa-lock accent5"></span>
-			<h3>Strategical planning</h3>
-			<p>Ensuring your innovation plan is financially feasible</p>
+			<span class="icon major fa-bolt accent2"></span>
+			<h3>Cybersecurity</h3>
+			<p>Protecting digital assets</p>
 		</section>
 	</div>
 </section>
