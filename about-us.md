@@ -29,6 +29,8 @@ Registered Office: Ground Floor, 8-9 Marino, Mart Fairview, Clontarf, Dublin D03
 
 Registered Number: 672666
 
+Tax Reference Number: 3697756FH
+
 
 **Tanglegence UK Ltd** is incorporated in England.
 
