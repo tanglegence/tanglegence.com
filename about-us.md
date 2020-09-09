@@ -25,7 +25,7 @@ cut costs, improve services, and promote transparency.
 
 **Tanglegence Ltd** is incorporated in Ireland.
 
-Registered Office: Ground Floor, 71 Lower Baggot Street, Dublin D02 P593
+Registered Office: Ground Floor, 71 Lower Baggot Street, Dublin D02 P593, Ireland
 
 Registered Number: 672666
 
