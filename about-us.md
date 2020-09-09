@@ -25,7 +25,7 @@ cut costs, improve services, and promote transparency.
 
 **Tanglegence Ltd** is incorporated in Ireland.
 
-Registered Office: Ground Floor, 8-9 Marino, Mart Fairview, Clontarf, Dublin D03 P590, Ireland
+Registered Office: Ground Floor, 71 Lower Baggot Street, Dublin D02 P593
 
 Registered Number: 672666
 
