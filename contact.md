@@ -8,7 +8,7 @@ layout: page
         <p>Tell us what you think about our services.</p>
     </header>
     <div class="box">
-        <form action="https://formspree.io/{{ site.email }}" method="POST">
+        <form action="https://formspree.io/f/info@tanglegence.com" method="POST">
             <div class="row uniform 50%">
                 <div class="6u 12u(mobilep)">
                     <input type="text" name="name" id="name" value="" placeholder="Name" />
