@@ -23,5 +23,8 @@ social:
     twitter: tanglegence
     linkedin: tanglegence
 
+# Mailchimp
+mailchimp-list: https://tanglegence.us17.list-manage.com/subscribe/post?u=31c5ea412bea1f72ace39eedf&amp;id=d01aad5b5c
+
 # Build settings
 markdown: kramdown
