@@ -6,7 +6,12 @@ title: Home
 <section class="box special" id="learn-more">
 	<header class="major">
 		<h2>What we do</h2>
-		<p>We advise governmental organisations and businesses throughout Europe and beyond through the complex journey of digital transformation without significant investment, disruption or complexity.</p>
+        <p>We specialise in sustainability, compliance, and security of digital services.</p>
+
+        <p>We assist governmental organisations and businesses throughout
+        Europe and beyond through the complex journey of design,
+        implementation, and operations of digital services without significant
+        investment, disruption or complexity.</p>
 	</header>
 	<!--<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>-->
 </section>
